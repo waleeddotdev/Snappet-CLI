@@ -2,7 +2,7 @@
 
 A simple command-line tool to quickly generate beautiful screenshots of your code using the power of [snappet.io](https://snappetio.netlify.app).
 
-![Snappet-CLI Demo](https://place-your-demo-gif-here.gif)
+![Snappet-CLI Demo](https://github.com/waleeddotdev/Snappet-CLI/blob/main/cover.png)
 
 ## What it Does
 
